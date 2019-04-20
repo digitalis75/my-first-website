@@ -10,3 +10,5 @@
   
   ## Technology
   This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages.
+  
+  You can look at the code [here](https://github.com/digitalis75/my-first-website)!
